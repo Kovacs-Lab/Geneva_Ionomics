@@ -1,1 +1,2 @@
-# Geneva_Ionomics
+# Geneva Ionomics
+This repository was used to generate figures for presentation at the 2020 ASPB conference for a virtual poster session. The data was collected by Margaret Frank (Cornell University) in Geneva, NY, 2017 from the grapevine germplasm repository maintained by the USDA-ARS. Ionomic quanitfication was performed by the Baxter Laboratory at the Donald Danforth Plant Science Center, St. Louis, MO. 
